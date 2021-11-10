@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: netty-all-4.1.50.Final.jar netty-all-4.1.50.Final.jar jack
+ son-annotations-2.4.0.jar jackson-core-2.4.2.jar jackson-databind-2.4
+ .2.jar
+Main-Class: com.HttpServer
+
